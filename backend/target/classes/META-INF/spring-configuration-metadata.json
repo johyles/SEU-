@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.hippo.fresh.security.config.JWTConfig",
+      "sourceType": "com.hippo.fresh.security.config.JWTConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest",
+      "type": "com.hippo.fresh.search.ElasticsearchConfig",
+      "sourceType": "com.hippo.fresh.search.ElasticsearchConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

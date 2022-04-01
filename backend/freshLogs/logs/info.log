@@ -1,0 +1,61 @@
+2022-03-14 11:17:52.675 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 58832 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 11:17:52.682 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 11:18:07.250 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 14.952 seconds (JVM running for 16.017)
+2022-03-14 14:37:44.961 [http-nio-8080-exec-6] [INFO ] com.hippo.fresh.handler.UserLoginFailureHandler - 
+2022-03-14 14:44:20.975 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 35300 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 14:44:20.977 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 14:44:36.045 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.465 seconds (JVM running for 16.444)
+2022-03-14 14:58:31.761 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 43128 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 14:58:31.764 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 14:58:46.700 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.459 seconds (JVM running for 16.806)
+2022-03-14 15:13:20.337 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 53760 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:13:20.340 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:13:35.079 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.175 seconds (JVM running for 16.171)
+2022-03-14 15:16:49.055 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 52064 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:16:49.057 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:17:03.987 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.468 seconds (JVM running for 16.883)
+2022-03-14 15:20:43.650 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 45588 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:20:43.653 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:20:58.658 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.461 seconds (JVM running for 16.648)
+2022-03-14 15:22:53.433 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 67564 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:22:53.435 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:23:08.328 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.331 seconds (JVM running for 16.526)
+2022-03-14 15:31:03.707 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 45792 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:31:03.709 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:31:18.501 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.169 seconds (JVM running for 16.19)
+2022-03-14 15:33:48.433 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 57268 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:33:48.435 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:34:02.960 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 14.915 seconds (JVM running for 15.873)
+2022-03-14 15:35:48.956 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 64012 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:35:48.959 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:36:03.757 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.252 seconds (JVM running for 16.45)
+2022-03-14 15:37:27.344 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 56264 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:37:27.346 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:37:42.309 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.435 seconds (JVM running for 16.859)
+2022-03-14 15:39:40.778 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 67272 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:39:40.781 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:39:56.534 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 16.259 seconds (JVM running for 18.224)
+2022-03-14 15:42:47.747 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 48432 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:42:47.749 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:43:02.732 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.533 seconds (JVM running for 16.77)
+2022-03-14 15:46:04.509 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 64832 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:46:04.512 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:46:19.994 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 16.056 seconds (JVM running for 17.621)
+2022-03-14 15:47:14.407 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 60656 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 15:47:14.409 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 15:47:29.324 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 15.407 seconds (JVM running for 16.591)
+2022-03-14 16:01:41.613 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 14568 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 16:01:41.616 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 16:01:57.674 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 17.438 seconds (JVM running for 18.907)
+2022-03-14 16:17:35.857 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 6572 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 16:17:35.859 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 16:17:49.857 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 14.363 seconds (JVM running for 15.2)
+2022-03-14 16:31:14.280 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 928 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 16:31:14.282 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 16:31:28.417 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 14.524 seconds (JVM running for 15.391)
+2022-03-14 16:31:31.381 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 11712 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 16:31:31.383 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 16:31:45.464 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 14.459 seconds (JVM running for 15.279)
+2022-03-14 16:33:29.948 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 1.8.0_322 on LAPTOP-I0O0CO0V with PID 17476 (C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend\target\classes started by 冰激凌 in C:\Users\冰激凌\Desktop\归档\03项目源码\03项目源码\backend)
+2022-03-14 16:33:29.950 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
+2022-03-14 16:33:43.995 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 14.425 seconds (JVM running for 15.228)
